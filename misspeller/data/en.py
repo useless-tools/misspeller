@@ -1,0 +1,31 @@
+symbols_map = {
+    # First line
+    'q': 'was',
+    'w': 'qeasd',
+    'e': 'wrsdf',
+    'r': 'etdfg',
+    't': 'ryfgh',
+    'y': 'tughj',
+    'u': 'yihjk',
+    'i': 'uojkl',
+    'o': 'ipkl',
+    'p': 'okl',
+    # Second line
+    'a': 'qwszx',
+    's': 'qweadzxc',
+    'd': 'wersfxcv',
+    'f': 'ertdgcvb',
+    'g': 'rtyfhvbn',
+    'h': 'tyugjbnm',
+    'j': 'yuihknm',
+    'k': 'uiojlnm',
+    'l': 'iopkm',
+    # Third line
+    'z': 'asx',
+    'x': 'asdzc',
+    'c': 'sdfxv',
+    'v': 'dfgcb',
+    'b': 'fghvn',
+    'n': 'ghjbm',
+    'm': 'hjkn',
+}
